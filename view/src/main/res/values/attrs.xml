@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SortTextView">
+        <attr name="text" format="string|reference"/>
+        <attr name="textSize" format="dimension|reference"/>
+        <attr name="textDefaultColor" format="color|reference"/>
+        <attr name="textSortColor" format="color|reference"/>
+        <attr name="arrowSortColor" format="color|reference"/>
+        <attr name="arrowDefaultColor" format="color|reference"/>
+        <attr name="paddingLeft" format="dimension|reference"/>
+        <attr name="paddingRight" format="dimension|reference"/>
+        <attr name="paddingTop" format="dimension|reference"/>
+        <attr name="paddingBottom" format="dimension|reference"/>
+        <attr name="arrowPaddingLeftRight" format="dimension|reference"/>
+        <attr name="arrowWidth" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
