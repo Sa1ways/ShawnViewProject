@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    tools:context="cn.shawn.shawnviewproject.MainActivity">
+    tools:context="cn.shawn.shawnviewproject.SortTextViewActivity">
 
     <cn.shawn.view.view.SortTextView
         android:background="@android:color/holo_blue_light"

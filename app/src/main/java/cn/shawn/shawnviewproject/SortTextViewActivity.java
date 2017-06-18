@@ -6,7 +6,7 @@ import android.widget.Toast;
 
 import cn.shawn.view.view.SortTextView;
 
-public class MainActivity extends AppCompatActivity {
+public class SortTextViewActivity extends AppCompatActivity {
 
     SortTextView tvPrice;
     SortTextView tvSale;
