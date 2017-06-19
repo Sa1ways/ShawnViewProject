@@ -17,6 +17,7 @@ import cn.shawn.view.R;
 
 /**
  * Created by root on 17-6-15.
+ * time consumed 1.5 hour
  */
 
 public class SortTextView extends View {

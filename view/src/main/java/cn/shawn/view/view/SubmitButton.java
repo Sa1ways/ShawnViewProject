@@ -10,7 +10,6 @@ import android.graphics.Color;
 import android.graphics.DashPathEffect;
 import android.graphics.Paint;
 import android.graphics.Path;
-import android.graphics.PathEffect;
 import android.graphics.PathMeasure;
 import android.graphics.Rect;
 import android.graphics.RectF;
@@ -18,7 +17,6 @@ import android.os.Build;
 import android.support.annotation.Nullable;
 import android.support.annotation.RequiresApi;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.view.View;
@@ -28,6 +26,7 @@ import cn.shawn.view.R;
 
 /**
  * Created by root on 17-6-17.
+ * time consumed 4 hour
  */
 
 public class SubmitButton extends View {

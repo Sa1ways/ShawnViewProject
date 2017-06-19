@@ -8,6 +8,7 @@ import android.view.View;
 import cn.shawn.view.view.SubmitButton;
 
 public class SubmitButtonActivity extends AppCompatActivity implements SubmitButton.OnSubmitClickListener {
+
     private SubmitButton submitButton;
 
     @Override

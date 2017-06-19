@@ -30,4 +30,13 @@
         <attr name="tipsColor" format="color|reference"/>
         <attr name="collapseTime" format="integer|reference"/>
     </declare-styleable>
+
+    <declare-styleable name="ProgressLoadView">
+        <attr name="textSize" />
+        <attr name="textColor"/>
+        <attr name="backgroundColor"/>
+        <attr name="progressBarHeight" format="dimension|reference"/>
+        <attr name="indicatorPadding" format="dimension|reference"/>
+        <attr name="progressBarMargin" format="dimension|reference"/>
+    </declare-styleable>
 </resources>

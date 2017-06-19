@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SortTextViewActivity"></activity>
+        <activity android:name=".SortTextViewActivity" />
         <activity android:name=".MenuActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,7 +17,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SubmitButtonActivity"></activity>
+        <activity android:name=".SubmitButtonActivity" />
+        <activity android:name=".ProgressViewActivity"></activity>
     </application>
 
 </manifest>

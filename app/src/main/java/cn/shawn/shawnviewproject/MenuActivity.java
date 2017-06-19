@@ -15,7 +15,8 @@ public class MenuActivity extends AppCompatActivity implements AdapterView.OnIte
 
     ListView mLv;
 
-    Class[] mActivities = {SortTextViewActivity.class, SubmitButtonActivity.class};
+    Class[] mActivities = {SortTextViewActivity.class, SubmitButtonActivity.class
+                , ProgressViewActivity.class};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
